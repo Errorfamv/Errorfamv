@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @Errorfamv
-- 👀 I’m interested in ethical hacking-and cyber security
-- 🌱 I’m currently learning ... python
-- 📫 How to reach me ... Search DearError X innocent on Facebook & on the Facebook page DearError-X-EF
-- 😐 and I'm looking for a group that i can join
